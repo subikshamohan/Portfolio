@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": " https://www.linkedin.com/in/subiksha-mohan-ba33a1258/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/subikshamohan"
+        },
+        {
+            "network" : "email",
+            "href": "subikshamohanmmr@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Nov 2022 - May 2026",
+            "cardTitle": "B.E, Electronics and Communication Engineering",
+            "cardSubtitle":"St.Joseph's Institute of Technology, Chennai",
+            "cardDetailedText": "CGPA - 8.91",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Jun 2021 - May 2022",
+            "cardTitle": "Higher Secondary",
+            "cardSubtitle":"Adhiparasakthi matriculation higher secondary school, Chengalpattu",
+            "cardDetailedText": "Marks - 89.6%"
+        }
+    ]
+}

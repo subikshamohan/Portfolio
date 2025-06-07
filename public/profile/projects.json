@@ -1,0 +1,31 @@
+{
+    "projects" : [
+        {
+            
+            "title": "Job Matching Platform 08/2024",
+"bodyText": "**Description**: Built an AI-powered job matching platform with 92% resume parsing accuracy to detect skill gaps, match real-time job listings, and recommend relevant roles.\n* Integrated Gemini AI for smart resume feedback, formatting suggestions, and personalized career guidance",
+          
+            "tags" : [
+                "Python", "Flask", "spaCy", "PyPDF2", "python-docx", "fuzzywuzzy", "Selenium"
+            ]
+        },
+      
+       
+        {
+            "title": "Automatic Job Recruitment System 08/2024",
+"bodyText": "**Description**: Developed a multi-agent AI recruitment system that automatically summarizes job descriptions, extracts candidate qualifications from resumes, and calculates match scores for efficient shortlisting.\n* Implemented interview scheduling automation and used SQLite for persistent multi-agent memory, streamlining the end-to-end hiring workflow with intelligent decision-making.",
+           
+            "tags" : [
+                "FastAPI", "Python", "httpx", "asyncio", "uvicorn"
+            ]
+        },
+        {
+            "title": "Autoform Chrome Extension 08/2024",
+"bodyText": "**Description**: Developed a Chrome extension that automates form filling by extracting webpage form structures and matching fields with user data.\n* Integrated AI using a Sentence Transformer model to intelligently autofill fields, with support for data persistence, manual review, and secure submission.",           
+            "tags" : [
+                "MongoDB", "Express.js", "Node.js", "Chrome Extensions API", "Sentence Transformer", "JavaScript"
+            ]
+        }
+       
+    ]
+}

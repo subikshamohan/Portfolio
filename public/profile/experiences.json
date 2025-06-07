@@ -1,0 +1,25 @@
+{
+    "experiences": [
+        {
+            "title": "Intern",
+            "subtitle": "Brakes India  Ltd",
+            "workType": "Internship",
+            "workDescription": [
+  "Expanded expertise in real-time machinery by studying the principles, operations, and design processes of systems utilized at Brakes India, enhancing understanding of complex infrastructure.",
+  " Gained hands-on experience with CNC machines, testing equipment, and process automation used in brake manufacturing.",
+  " Acquired in-depth knowledge of braking system manufacturing and software integration, focusing on machine-specific programs to enhance operational efficiency."
+            ],
+            "dateText": "06/2023 "
+        },
+        {
+            "title": "Intern",
+            "subtitle": "Indian Institute of Information Technology, Design & Manufacturing",
+            "workType": " Research Intern",
+            "workDescription": ["Developed an AI-driven system for real-time network threat detection by analyzing traffic logs from multiple end nodes. Implemented log parsing, classification, and an intelligent container-triggering mechanism to handle specific attacks like DDoS and port scanning. Designed a GUI dashboard to monitor threats and reduced false positives through model fine-tuning."
+      
+            ],
+                        "dateText": "06/2025"
+
+        }
+    ]
+}

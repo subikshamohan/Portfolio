@@ -1,0 +1,51 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools, and platforms I have worked with:",
+    "skills": [
+        {
+            "title": "Frameworks & Technologies",
+            "items": [
+                {
+                    "icon": "../images/skills/flask.199x256.png",
+                    "title": "Flask"
+                },
+                {
+                    "icon": "../images/skills/",
+                    "title": "PyMuPDF"
+                },
+                {
+                    "icon": "../images/skills/SpaCy_logo.svg.png",
+                    "title": "spaCy"
+                },
+                {
+                    "icon": "images/skills/beautifulsoup.png",
+                    "title": "BeautifulSoup"
+                },
+                {
+                    "icon": "images/skills/selenium.png",
+                    "title": "Selenium"
+                }
+            ]
+        },
+        {
+            "title": "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/powerbi.png",
+                    "title": "Power BI"
+                },
+                {
+                    "icon": "images/skills/excel.png",
+                    "title": "Excel"
+                },
+                {
+                    "icon": "images/skills/vscode.png",
+                    "title": "VS Code"
+                },
+                {
+                    "icon": "images/skills/jupyter.png",
+                    "title": "Jupyter Notebook"
+                }
+            ]
+        }
+    ]
+}
